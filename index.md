@@ -1,3 +1,1 @@
-# Karen, welcome!
 
-Grumpy pants.
