@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Karen, welcome!
 
-I'm glad you are here. I plan to talk about ...
+Grumpy pants.
