@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Grumpy Pants
+author: Grumpy Person (Karen)
+email: grumpypants18@gmail.ca
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A website dedicated to somebody who is very grumpy.
+theme: minima
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: grumpypants18
+github_username:  iamgrumpy18
 
 show_excerpts: true # set to false to remove excerpts on the homepage
