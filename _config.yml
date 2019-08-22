@@ -9,4 +9,4 @@ theme: minima
 twitter_username: grumpypants18
 github_username:  iamgrumpy18
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
